@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://dhanu1402.io)
 <h1 align="center">Hi 👋, I'm Dhanu Kumar</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India currently working in Provoke Developers.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanu1402&label=Profile%20views&color=0e75b6&style=flat" alt="dhanu1402" /> </p>
